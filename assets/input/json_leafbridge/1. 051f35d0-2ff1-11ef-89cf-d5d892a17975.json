@@ -1,0 +1,101 @@
+{
+ "retailId": "ethos_CHAIN",
+ "transactionId": "051f35d0-2ff1-11ef-89cf-d5d892a17975",
+ "action": "LB_Purchase",
+ "createdAt": 1718989769133,
+ "details": {
+  "data": {
+   "currency": "USD",
+   "event": "LB_Purchase",
+   "items": [
+    {
+     "index": 1,
+     "item_brand_id": "66eaf623-85f9-458d-8659-ba8e55a5647e",
+     "item_brand_name": "Good Chemistry Nurseries",
+     "item_category": "VAPORIZERS",
+     "item_discount": 0,
+     "item_discounted_value": 0,
+     "item_id": "6584d9ba5269260001c26fed",
+     "item_name": "Runtz | Live Rosin Vape Cartridge | 500mg",
+     "item_potency_cbd": "",
+     "item_potency_thc": "76.75%",
+     "item_price": 35,
+     "item_strain_type": "HYBRID",
+     "item_subcategory": "CARTRIDGES",
+     "item_value": 35,
+     "item_variant": ".5g",
+     "quantity": 1
+    },
+    {
+     "index": 2,
+     "item_brand_id": "fec3e0a8-f833-40d9-bec4-13c9eb1ef5e4",
+     "item_brand_name": "Black Label",
+     "item_category": "VAPORIZERS",
+     "item_discount": 0,
+     "item_discounted_value": 0,
+     "item_id": "662968ff3cf2d300013bf60e",
+     "item_name": "Cinderella 99 | CO2 | Vape Cartridge | 500mg",
+     "item_potency_cbd": "0.35%",
+     "item_potency_thc": "69.84%",
+     "item_price": 20,
+     "item_strain_type": "SATIVA",
+     "item_subcategory": "CARTRIDGES",
+     "item_value": 20,
+     "item_variant": ".5g",
+     "quantity": 1
+    },
+    {
+     "index": 3,
+     "item_brand_id": "cad8aba5-fcb9-4caa-981d-f421a22d057f",
+     "item_brand_name": "Eleven",
+     "item_category": "VAPORIZERS",
+     "item_discount": 12,
+     "item_discounted_value": 12,
+     "item_id": "66638d647490160001da7ff2",
+     "item_name": "Pineapple Funk Distillate Vape Cartridge | 0.5g",
+     "item_potency_cbd": "",
+     "item_potency_thc": "83.65%",
+     "item_price": 30,
+     "item_strain_type": "HYBRID",
+     "item_subcategory": "CARTRIDGES",
+     "item_value": 18,
+     "item_variant": ".5g",
+     "quantity": 1
+    }
+   ],
+   "location_id": "3de666a0-20a4-46b3-84e8-43ec1041b0f7",
+   "location_name": "Ethos Dorchester – Rec",
+   "menu_type": "RECREATIONAL",
+   "transaction_date": "2024-06-21T17:09:26.523Z",
+   "transaction_discount": "Calculated to Subtotal",
+   "transaction_id": "877467852",
+   "transaction_subtotal": 85,
+   "transaction_tax": 4.57,
+   "transaction_total": 87.6,
+   "transaction_type": "PICKUP",
+   "transaction_user": {
+    "birthdate": "03/02/1981",
+    "email": null,
+    "guest": true,
+    "id": "6675b3c748556d00074ca729",
+    "medicalCard": null,
+    "name": "Chelsa Walker",
+    "optIns": {
+     "marketing": true,
+     "orderStatus": false,
+     "specials": true
+    },
+    "phone": "(817) 715-1634"
+   }
+  },
+  "iframe_url": "",
+  "source": "GA4.dataLayer",
+  "terpli_rec": "",
+  "terpli_viewed": [
+  ],
+  "url": "https://ethoscannabis.com/thank-you/?orderNumber=877467852"
+ },
+ "ecom_platform": "Unknown",
+ "firebaseId": "",
+ "userId": ""
+}

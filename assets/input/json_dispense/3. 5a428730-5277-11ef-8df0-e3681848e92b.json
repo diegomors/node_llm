@@ -1,0 +1,138 @@
+{
+ "retailId": "seshnycbronx",
+ "transactionId": "5a428730-5277-11ef-8df0-e3681848e92b",
+ "action": "CompletedOrder",
+ "createdAt": 1722785804067,
+ "details": {
+  "data": {
+   "body": {
+    "context": {
+     "page": {
+      "hash": "",
+      "host": "myseshnyc.com",
+      "hostName": "myseshnyc.com",
+      "href": "https://myseshnyc.com/shop/64b7de9dfab4c980/checkout",
+      "pathname": "/shop/64b7de9dfab4c980/checkout",
+      "port": "",
+      "protocol": "https:",
+      "referrer": "",
+      "search": "",
+      "title": "Complete your order | Sesh NYC - Bronx (Rec)"
+     },
+     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/127.0.6533.77 Mobile/15E148 Safari/604.1"
+    },
+    "data": {
+     "currency": "USD",
+     "discount": 0,
+     "itemCount": 6,
+     "items": [
+      {
+       "id": "1bb56dcaf307ec67",
+       "name": "Rove - Skywalker - Vape Cart - .5g",
+       "productBrand": "Rove",
+       "productCannabisComplianceType": "VAPORIZERS",
+       "productCannabisType": "INDICA",
+       "productCategoryName": "Vaporizers",
+       "productId": "1bb56dcaf307ec67",
+       "productName": "Rove - Skywalker - Vape Cart - .5g",
+       "productPrice": 50,
+       "productQuantity": 3,
+       "productSubType": "Vape",
+       "quantity": 1
+      },
+      {
+       "id": "6ec81a01baffb2e1",
+       "name": "Rove - Sour Jack - Vape Cart - .5g",
+       "productBrand": "Rove",
+       "productCannabisComplianceType": "VAPORIZERS",
+       "productCannabisType": "SATIVA",
+       "productCategoryName": "Vaporizers",
+       "productId": "6ec81a01baffb2e1",
+       "productName": "Rove - Sour Jack - Vape Cart - .5g",
+       "productPrice": 50,
+       "productQuantity": 6,
+       "productSubType": "Vape",
+       "quantity": 1
+      },
+      {
+       "id": "e5c617158d8f8b5e",
+       "name": "Ayrloom - Watermelon - Vape Cart - 1g",
+       "productBrand": "Ayrloom",
+       "productCannabisComplianceType": "VAPORIZERS",
+       "productCannabisType": "HYBRID",
+       "productCategoryName": "Vaporizers",
+       "productId": "e5c617158d8f8b5e",
+       "productName": "Ayrloom - Watermelon - Vape Cart - 1g",
+       "productPrice": 60,
+       "productQuantity": 41,
+       "productSubType": "Vape",
+       "quantity": 1
+      },
+      {
+       "id": "d4b63faa423a2676",
+       "name": "Jaunty - Purple Punch - Vape Cart - 1g",
+       "productBrand": "Jaunty",
+       "productCannabisComplianceType": "VAPORIZERS",
+       "productCannabisType": "INDICA",
+       "productCategoryName": "Vaporizers",
+       "productId": "d4b63faa423a2676",
+       "productName": "Jaunty - Purple Punch - Vape Cart - 1g",
+       "productPrice": 60,
+       "productQuantity": 10,
+       "productSubType": "Vape",
+       "quantity": 1
+      },
+      {
+       "id": "ceec435a8a645352",
+       "name": "Jaunty - Kush Mints - Vape Cart - 1g",
+       "productBrand": "Jaunty",
+       "productCannabisComplianceType": "VAPORIZERS",
+       "productCannabisType": "HYBRID",
+       "productCategoryName": "Vaporizers",
+       "productId": "ceec435a8a645352",
+       "productName": "Jaunty - Kush Mints - Vape Cart - 1g",
+       "productPrice": 60,
+       "productQuantity": 13,
+       "productSubType": "Vape",
+       "quantity": 1
+      },
+      {
+       "id": "6938cb39e76ce12b",
+       "name": "Jaunty - Pineapple Express - Vape Cart - 1g",
+       "productBrand": "Jaunty",
+       "productCannabisComplianceType": "VAPORIZERS",
+       "productCannabisType": "HYBRID",
+       "productCategoryName": "Vaporizers",
+       "productId": "6938cb39e76ce12b",
+       "productName": "Jaunty - Pineapple Express - Vape Cart - 1g",
+       "productPrice": 60,
+       "productQuantity": 13,
+       "productSubType": "Vape",
+       "quantity": 1
+      }
+     ],
+     "orderId": "7f7c1bde05d1acb7",
+     "price": 340,
+     "tax": 44.2,
+     "total": 384.2,
+     "venueId": "6229fc943aa88983",
+     "venueName": "Sesh NYC - Bronx (Rec)"
+    },
+    "event": "CompletedOrder",
+    "sessionId": "c80a5c29-d205-43ea-9473-f2db07095ca5"
+   },
+   "headers": {},
+   "method": "POST",
+   "url": "https://api.dispenseapp.com/track"
+  },
+  "iframe_url": "",
+  "source": "Fetch",
+  "terpli_rec": "",
+  "terpli_viewed": [
+  ],
+  "url": "https://myseshnyc.com/shop/64b7de9dfab4c980/checkout"
+ },
+ "ecom_platform": "Dispense",
+ "firebaseId": "8d548a99-b919-4930-97bd-2c172d43e13f",
+ "userId": "8d548a99-b919-4930-97bd-2c172d43e13f"
+}

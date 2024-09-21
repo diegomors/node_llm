@@ -1,0 +1,90 @@
+{
+ "retailId": "greenkoidouglasrec",
+ "transactionId": "e8a17e30-58b4-11ef-9ef0-07e50fd16f16",
+ "action": "purchase",
+ "createdAt": 1723471949203,
+ "details": {
+  "data": {
+   "currency": "USD",
+   "items": [
+    {
+     "affiliation": "Green Koi (Rec)",
+     "index": 0,
+     "item_attribution": "Other",
+     "item_brand": "TREETOWN",
+     "item_category": "Edibles",
+     "item_category2": "Gummy",
+     "item_id": "bf969a8364cf5961",
+     "item_name": "(AU) BLACKBERRY LAVENDER SLEEP - 1:2 THC/CBN GUMMIES",
+     "location_id": "00e7c31eac73f4d2",
+     "price": 15,
+     "quantity": 0
+    },
+    {
+     "affiliation": "Green Koi (Rec)",
+     "index": 0,
+     "item_attribution": "Other",
+     "item_brand": "ROVE",
+     "item_category": "Vaporizers",
+     "item_category2": "Live Resin",
+     "item_id": "bbcc9de9e2318ad1",
+     "item_name": "(AU) CREAMZ - PREMIER LIVE RESIN - 1G - 510 CART",
+     "location_id": "00e7c31eac73f4d2",
+     "price": 25,
+     "quantity": 0
+    },
+    {
+     "affiliation": "Green Koi (Rec)",
+     "index": 0,
+     "item_attribution": "Other",
+     "item_brand": "MITTEN EXTRACT",
+     "item_category": "Vaporizers",
+     "item_category2": "Distillate",
+     "item_id": "f9528bb7f77d20ce",
+     "item_name": "(AU) WATERMELON ZUNTZ - 1G",
+     "location_id": "00e7c31eac73f4d2",
+     "price": 15,
+     "quantity": 0
+    },
+    {
+     "affiliation": "Green Koi (Rec)",
+     "index": 0,
+     "item_attribution": "Other",
+     "item_brand": "MITTEN EXTRACTS",
+     "item_category": "Vaporizers",
+     "item_category2": "Distillate",
+     "item_id": "c95f2e98ef2a48c0",
+     "item_name": "(AU) LONDON POUND CAKE - 1G",
+     "location_id": "00e7c31eac73f4d2",
+     "price": 15,
+     "quantity": 0
+    },
+    {
+     "affiliation": "Green Koi (Rec)",
+     "index": 0,
+     "item_attribution": "Other",
+     "item_brand": "WYLD",
+     "item_category": "Edibles",
+     "item_category2": "Gummy",
+     "item_id": "a58fb66a1fdba303",
+     "item_name": "(AU) ELDERBERRY - 4:1 THC:CBN - 200MG",
+     "location_id": "00e7c31eac73f4d2",
+     "price": 20,
+     "quantity": 6
+    }
+   ],
+   "tax": 76.36,
+   "transaction_id": "efd3acecb702a44d",
+   "value": 536.36
+  },
+  "iframe_url": "",
+  "source": "GA4.dataLayer",
+  "terpli_rec": "",
+  "terpli_viewed": [
+  ],
+  "url": "https://www.greenkoi.com/adult-use/aa66969433e108f4/checkout"
+ },
+ "ecom_platform": "Dispense",
+ "firebaseId": "71ea5a91-2c35-4727-947d-da623c3a3203",
+ "userId": "71ea5a91-2c35-4727-947d-da623c3a3203"
+}
