@@ -1,0 +1,58 @@
+[
+    {
+        "index": 1,
+        "item_brand_id": "66eaf623-85f9-458d-8659-ba8e55a5647e",
+        "item_brand_name": "Good Chemistry Nurseries",
+        "item_category": "VAPORIZERS",
+        "item_discount": 0,
+        "item_discounted_value": 0,
+        "item_id": "6584d9ba5269260001c26fed",
+        "item_name": "Runtz | Live Rosin Vape Cartridge | 500mg",
+        "item_potency_cbd": "",
+        "item_potency_thc": "76.75%",
+        "item_price": 35,
+        "item_strain_type": "HYBRID",
+        "item_subcategory": "CARTRIDGES",
+        "item_value": 35,
+        "item_variant": ".5g",
+        "quantity": 1
+    },
+    {
+        "item_brand": "District Cannabis",
+        "item_category": "Pre-Rolls",
+        "item_category_2": "singles",
+        "item_id": "662340368c74980001365d25",
+        "item_list_name": "CategoryPage > Native > Menu",
+        "item_name": "District Cannabis Preroll (.5g) Spritzer",
+        "item_variant": ".5g",
+        "price": 5,
+        "quantity": 2
+    },
+    {
+        "id": "bf969a8364cf5961",
+        "name": "(AU) BLACKBERRY LAVENDER SLEEP - 1:2 THC/CBN GUMMIES",
+        "productBrand": "TREETOWN",
+        "productCannabisComplianceType": "EDIBLES",
+        "productCannabisType": "HYBRID",
+        "productCategoryName": "Edibles",
+        "productId": "bf969a8364cf5961",
+        "productName": "(AU) BLACKBERRY LAVENDER SLEEP - 1:2 THC/CBN GUMMIES",
+        "productPrice": 15,
+        "productQuantity": 0,
+        "productSubType": "Gummy",
+        "quantity": 4
+    },
+    {
+        "affiliation": "Green Koi (Rec)",
+        "index": 0,
+        "item_attribution": "Other",
+        "item_brand": "TREETOWN",
+        "item_category": "Edibles",
+        "item_category2": "Gummy",
+        "item_id": "bf969a8364cf5961",
+        "item_name": "(AU) BLACKBERRY LAVENDER SLEEP - 1:2 THC/CBN GUMMIES",
+        "location_id": "00e7c31eac73f4d2",
+        "price": 15,
+        "quantity": 0
+    }
+]
