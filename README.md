@@ -38,9 +38,20 @@
     python3 -m venv llama2
     source llama2/bin/activate
     python3 -m pip install -r requirements.txt
+    ```
+
+    Llama 2 7B
+    ```
     mkdir models/7B
     python3 examples/convert_legacy_llama.py --outfile models/7B/ggml-model-f16.bin --outtype f16 ../llama/llama-2-7b
     docker run -v ~/workspace/llama.cpp/models:/models ghcr.io/ggerganov/llama.cpp:full --all-in-one "/models" 7B
+    ```
+
+    Llama 2 13B
+    ```
+    mkdir models/13B
+    python3 examples/convert_legacy_llama.py --outfile models/13B/ggml-model-f16.bin --outtype f16 ../llama/llama-2-13b
+    docker run -v ~/workspace/llama.cpp/models:/models ghcr.io/ggerganov/llama.cpp:full --all-in-one "/models" 13B
     ```
 
 5. Test project
