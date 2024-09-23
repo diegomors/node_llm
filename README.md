@@ -86,13 +86,45 @@ This project provides different implementations to perform data extraction.
     ```
 
 2. Install [Ollama](https://ollama.com/)
-3. Install Mixtral LLM
+
+    ```
+    brew install ollama
+    ```
+
+3. Set up mixtral:8x7b
 
     ```
     ollama run mixtral:8x7b
+    >>> /load mixtral:8x7b
+    ```
+    Note: Keep it running.
+
+    Check if it's running
+    ```
+    curl http://localhost:11434
+
+    Ollama is running
     ```
 
-4. Test project
+4. Set up BAAI/bge-small-en-v1.5
+
+    ```
+    pip3 install torch torchvision
+    python3 ./lib/model/setup_model.py
+    ```
+
+    Check if it's installed correctly
+    ```
+    python3 ./lib/model/check_model.py
+
+    tensor([[0.9301, 0.4620, 0.5878],
+        [0.4004, 0.6724, 0.0571],
+        [0.5285, 0.5563, 0.5618],
+        [0.8154, 0.9178, 0.8803],
+        [0.0246, 0.4845, 0.8631]])
+    ```
+
+5. Test project
 
     ```
     npm install
