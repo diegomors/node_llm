@@ -1,4 +1,4 @@
-Extract product information from the provided JSON data.
+Extract following product information from the provided JSON data. The output format must be a JSON as well.
 
     • index: The position of the product in the list.
     • id: The unique identifier of the product.

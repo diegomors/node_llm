@@ -3,22 +3,25 @@
 This project provides different implementations to perform data extraction.  
 
     1. Dictionary
-        This implementation uses only Javascript itself with a dictionary to extract known data by keywords
+        This implementation uses only Javascript itself with a dictionary to extract known data by keywords.
 
     2. Langchain (Llama2 7B)
-        This implementation uses the local LLM Llama2 7B to perform data extraction using prompts (doesn't works)
+        This implementation uses a local instance of Llama2 7B to perform data extraction using prompts.
+        It's not working for this purpose.
 
     3. Langchain (Llama2 13B)
-        This implementation uses the local LLM Llama2 13B to perform data extraction using prompts (doesn't works)
+        This implementation uses a local instance of Llama2 13B to perform data extraction using prompts.
+        It's not working for this purpose.
 
     4. Llamaindex (OpenAI GPT3)
-        This implementation uses the remote LLM GPT 3 to perform data extraction using prompts
+        This implementation uses GPT-3.5-turbo-0125 from OpenAI to perform data extraction using prompts.
 
-    5. Llamaindex (Llama RAG Remote)
-        This implementation uses the remote LLM from OpenAI to perform data extraction with RAG 
+    5. Llamaindex (RAG GPT4)
+        This implementation uses GPT-4o-2024-05-13 and Text-embedding-ada-002-v2 from OpenAI to perform data extraction with RAG. 
 
-    6. Llamaindex (Llama RAG Local)
-        This implementation uses the local LLM Mixtral to perform data extraction with RAG (HeadersTimeoutError)
+    6. Llamaindex (RAG Mixtral)
+        This implementation uses a local instance of mixtral:8x7b and BAAI/bge-small-en-v1.5 to perform data extraction with RAG.
+        [HeadersTimeoutError] This model needs aproximatelly 20GB RAM. My current set up needs additional 10GB.
 
 # Set up Dictionary
 
